@@ -97,7 +97,3 @@ Enjoy a smarter way to explore films with our **AI-powered Movie Recommender Sys
 ---
 
 🚀 **Happy Watching! 🎥🍿**
-
----
-
-Let me know if you also want badges (like GitHub stars, forks, or license), or a deploy guide for platforms like **Streamlit Cloud**, **Render**, or **Hugging Face Spaces**!
