@@ -1,7 +1,3 @@
-Perfect! Here's your updated README with your correct GitHub username and project link, along with a properly updated clone section:
-
----
-
 # 🎬 Movie Recommender System
 
 ## Unlock Your Next Favorite Film! 🎥🍿
