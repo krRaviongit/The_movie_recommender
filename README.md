@@ -1,3 +1,7 @@
+Perfect! Here's your updated README with your correct GitHub username and project link, along with a properly updated clone section:
+
+---
+
 # 🎬 Movie Recommender System
 
 ## Unlock Your Next Favorite Film! 🎥🍿
@@ -41,30 +45,38 @@ Follow these steps to set up and run the application:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/AnupamMittal-21/Movie-Recommender-System.git
+git clone https://github.com/krRaviongit/The_movie_recommender.git
+cd The_movie_recommender
 ```
 
 ### 2️⃣ Create a Virtual Environment
-Ensure you have a virtual environment set up for the project:
 ```bash
 python -m venv env
-source env/bin/activate  # For macOS/Linux
-env\Scripts\activate    # For Windows
+# Activate the environment
+source env/bin/activate  # macOS/Linux
+env\Scripts\activate     # Windows
 ```
 
 ### 3️⃣ Install Dependencies
-Install the required dependencies using the `requirements.txt` file:
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4️⃣ Run the Application
-Start the application by executing the following command:
+### 4️⃣ Download Required Files from Google Drive
+Some large `.pkl` model/data files are hosted externally due to GitHub file size limits. Use the script below to download them automatically:
+
+```bash
+python download_files.py
+```
+
+This script uses **gdown** to securely fetch necessary files from Google Drive and places them in the correct directories.
+
+### 5️⃣ Run the Application
 ```bash
 streamlit run main.py
 ```
 
-**⚠️ Note:** The first time you run the application, it may take a moment to create necessary files and initialize the environment.
+**⚠️ Note:** The first time you run the application, it may take a few seconds to initialize while loading the models and data.
 
 ---
 
@@ -83,11 +95,13 @@ Enjoy a smarter way to explore films with our **AI-powered Movie Recommender Sys
 
 ---
 
-📌 **Developed by 
-Kumar Ravi, Abinash Giri, Jay Gupta**
-
-
+📌 **Developed by**  
+**Kumar Ravi, Abinash Giri, Jay Gupta**
 
 ---
+
 🚀 **Happy Watching! 🎥🍿**
 
+---
+
+Let me know if you also want badges (like GitHub stars, forks, or license), or a deploy guide for platforms like **Streamlit Cloud**, **Render**, or **Hugging Face Spaces**!
