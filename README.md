@@ -1,3 +1,6 @@
+![Banner](https://github.com/user-attachments/assets/b211f5f7-804f-42bf-acde-135be544e00a)
+
+
 # 🎬 Movie Recommender System
 
 ## Unlock Your Next Favorite Film! 🎥🍿
