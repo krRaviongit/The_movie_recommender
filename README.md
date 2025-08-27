@@ -1,11 +1,14 @@
 ![Banner](https://github.com/user-attachments/assets/b211f5f7-804f-42bf-acde-135be544e00a)
 
+ <h1 align="center">🎬🍿Movie Recommender System</h1>
+  
+> *Unlock Your Next Favorite Film!*
 
-# 🎬 Movie Recommender System
-
-## Unlock Your Next Favorite Film! 🎥🍿
-
-Our **NLP-powered Movie Recommendation Web App** delivers personalized movie suggestions based on cast, genres, and production companies. Enjoy a seamless **Streamlit** interface, explore detailed movie descriptions, and browse a complete list of available films.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/your-username/NeuroRest?style=social" />
+</p>
 
 ---
 
