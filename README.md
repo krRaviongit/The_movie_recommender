@@ -98,8 +98,17 @@ Enjoy a smarter way to explore films with our **AI-powered Movie Recommender Sys
 ---
 
 📌 **Developed by**  
-**Kumar Ravi, Abinash Giri, Jay Gupta**
+* **Kumar Ravi** – [GitHub](https://github.com/krRaviongit)
+* **Abinash Giri** – [GitHub](https://github.com/ABIN2005)
+
+---
+
+## 📜 License  
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
 
 ---
 
 🚀 **Happy Watching! 🎥🍿**
+
+---
+<p align="center">Made with ❤️ by Kumar Ravi</p>
